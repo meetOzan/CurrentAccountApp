@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">CurrentAccountApp</string>
+    <string name="users">Users</string>
+    <string name="current_account_app">Current Account App</string>
+    <string name="cancel">Cancel</string>
+    <string name="no_user_found">No User Found</string>
+    <string name="mert">Mert</string>
+    <string name="customer_name">Customer Name: %1$s</string>
+    <string name="total_dept">Total Dept: %1$s$</string>
+    <string name="total_money">Total Money: %1$s$</string>
+    <string name="is_able_to_credit">Is able to credit: %1$s</string>
+    <string name="no">No</string>
+    <string name="yes">Yes</string>
+    <string name="balance">Balance: %1$s$</string>
+    <string name="take_credit">Take Credit</string>
+    <string name="pay_debt">Pay Debt</string>
+    <string name="error_pay_debt_cannot_be_null_or_greater_than_total_money_or_less_than_total_debt">Error: Pay Debt cannot be null or greater than Total Money or less than Total Debt.</string>
+</resources>
